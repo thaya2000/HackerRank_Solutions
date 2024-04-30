@@ -1,3 +1,5 @@
+package Solution_in_Java;
+
 import static java.util.stream.Collectors.toList;
 
 import java.io.BufferedReader;
