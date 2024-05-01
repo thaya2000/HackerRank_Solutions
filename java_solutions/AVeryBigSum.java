@@ -1,4 +1,4 @@
-package Solution_in_Java;
+package java_solutions;
 
 import static java.util.stream.Collectors.toList;
 
