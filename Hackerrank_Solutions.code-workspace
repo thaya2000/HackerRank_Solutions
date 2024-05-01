@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Solution_in_Java"
+		},
+		{
+			"path": "Solution_in_go"
+		},
+		{
+			"path": "Solution_in_C++"
+		}
+	]
+}

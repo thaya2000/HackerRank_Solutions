@@ -4,6 +4,34 @@
             "type": "java",
             "name": "Solution",
             "request": "launch",
+            "mainClass": "Solution_in_Java.Solution",
+            "projectName": "Hackerrank_Solutions_2c3dd731"
+        },
+        {
+            "type": "java",
+            "name": "ABC",
+            "request": "launch",
+            "mainClass": "ABC",
+            "projectName": "Hackerrank_Solutions_2c3dd731"
+        },
+        {
+            "type": "java",
+            "name": "CompareTriplets",
+            "request": "launch",
+            "mainClass": "Solution_in_Java.CompareTriplets",
+            "projectName": "Hackerrank_Solutions_2c3dd731"
+        },
+        {
+            "type": "java",
+            "name": "compareTriplets",
+            "request": "launch",
+            "mainClass": "Solution_in_Java.compareTriplets",
+            "projectName": "Hackerrank_Solutions_2c3dd731"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
             "mainClass": "Solution",
             "projectName": "Hackerrank_Solutions_2c3dd731"
         },
